@@ -1,7 +1,7 @@
 #Olá! Eu souo  o Roni Junior
-👨‍💻DEV/REACTJS
+👨‍💻DEV/JavaScript
 🚀Estou em aprendizado!
-🌐Estudaando JavaScripty
+🌐Estudaando ReactJS
 .
 .
 .
