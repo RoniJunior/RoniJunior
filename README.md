@@ -1,11 +1,11 @@
-#Olá! Eu souo  o Roni Junior
+#Olá! Eu sou o Roni Junior
 
 👨‍💻DEV/Python
 🚀Estou em constante Evolução
 
-🔭Em busca da minha primeira vaga na área de Dados.
-🌱Estudando Python, SQL, Power BI.
-.
+🔭Em busca da minha primeira vaga de desenvolvedor.
+🌱Estudando Python e Java.
+  Estou diariamente estudando também HTMl, CSS fazendo pequenos projetos para o meu repositório. 
 .
 .
 .
