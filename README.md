@@ -8,12 +8,12 @@
 
 🌱Estudando Python e Javascript.
 
-🌱Estou diariamente estudando também HTMl, CSS fazendo pequenos projetos para o meu repositório. 
+🌱Estou diariamente estudando também HTMl e CSS fazendo pequenos projetos para o meu repositório. 
   
 
 <div>
   <a href="https://github.com/RoniJunior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoniJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RoniJunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniJunior&layout=compact&langs_count=7&theme=dark"/>
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roni-junior-31956522b/)
