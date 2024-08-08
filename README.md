@@ -1,12 +1,12 @@
 #Olá! Eu sou o Roni Junior
 
-👨‍💻DEV Full Stack Jr.
+👨‍💻DEV Back-end Jr.
 
 🚀Estou em constante Evolução
 
 🔭Em busca da minha primeira vaga de desenvolvedor.
 
-🌱Estudando Python e Javascript.
+🌱Estudando Python e Java.
 
 🌱Estou diariamente estudando também HTMl e CSS fazendo pequenos projetos para o meu repositório. 
   
