@@ -6,9 +6,9 @@
 
 🔭Em busca da minha primeira vaga de desenvolvedor.
 
-🌱Estudando Python e Java.
+🌱Estudando C# e SQL Server.
 
-🌱Estou diariamente estudando também HTMl e CSS fazendo pequenos projetos para o meu repositório. 
+🌱Estou diariamente estudando também HTMl,CSS e Python fazendo pequenos projetos para o meu repositório. 
   
 
 <div>
@@ -25,7 +25,7 @@
 <img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/djangorest/djangorest-original.svg" />
-<img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img align="center" alt="RoniJunior-html" height="60" width="70" src=""/>
+<img align="center" alt="RoniJunior-html" height="60" width="70" src=""/>
     </div>
    
