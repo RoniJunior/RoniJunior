@@ -1,6 +1,6 @@
 #Olá! Eu sou o Roni Junior
 
-👨‍💻DEV .NET Jr.
+👨‍💻DEV C# Jr.
 
 🚀Estou em constante Evolução
 
