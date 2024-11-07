@@ -1,12 +1,12 @@
 #Olá! Eu sou o Roni Junior
 
-👨‍💻DEV C# Jr.
+👨‍💻DEV Jr.
 
 🚀Estou em constante Evolução
 
 🔭Em busca da minha primeira vaga de desenvolvedor.
 
-🌱Estudando C# e SQL Server.
+🌱Estudando JavaScript, C#/.NET e SQL Server.
 
 🌱Estou diariamente estudando também HTMl, CSS e Python fazendo pequenos projetos para o meu repositório. 
   
