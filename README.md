@@ -19,12 +19,17 @@
 <br>
  <a href="https://www.linkedin.com/in/roni-junior-31956522b/">
         <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
+            alt="LinkedIn" 
+            title="Se conectar pelo Linkedin" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
-    
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me)
+      <a href="https://discord.com/channels/@me">
+        <img 
+            alt="Discord" 
+            title="Vamos converssar no Discord" 
+            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+        />
+  </div>
 
 ### 🤖 Linguagens e Tecnologias
 
