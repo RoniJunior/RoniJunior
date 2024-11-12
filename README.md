@@ -8,7 +8,8 @@
 
 🌱Estudando JavaScript e SQL Server.
 
-🌱Estou diariamente estudando também HTMl, CSS e Python fazendo pequenos projetos para o meu repositório. 
+🌱Estou diariamente estudando também HTML, CSS e Python fazendo pequenos projetos para o meu repositório.
+   Próximo estudo será em NodeJS.
   
 
 <div>
@@ -23,6 +24,7 @@
 <img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 <img align="center" alt="RoniJunior-html" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
     </div>
    
