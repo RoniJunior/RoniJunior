@@ -22,7 +22,7 @@
             alt="LinkedIn" 
             title="Se conectar pelo Linkedin" 
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
+        /> <p></p>
       <a href="https://discord.com/channels/@me">
         <img 
             alt="Discord" 
