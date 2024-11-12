@@ -27,7 +27,7 @@
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 15px;" 
+    style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
    />
    <img 
@@ -35,7 +35,7 @@
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 15px;" 
+    style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
    />
    <img 
@@ -43,7 +43,7 @@
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 15px;" 
+    style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
    />
     <img 
@@ -51,7 +51,7 @@
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 15px;" 
+    style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
    />
    <img 
@@ -59,7 +59,7 @@
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 15px;" 
+    style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
    />
 
