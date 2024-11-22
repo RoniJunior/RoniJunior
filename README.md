@@ -6,10 +6,9 @@
 
 🔭Em busca da minha primeira vaga de desenvolvedor.
 
-🌱Estudando JavaScript e SQL Server.
+🌱Estudando JavaScript e Node.JS.
 
-🌱Estou diariamente estudando também HTML, CSS e Python fazendo pequenos projetos para o meu repositório.
-   Próximo estudo será em NodeJS.
+🌱Estou diariamente estudando também HTML, CSS, SQL Server e Python fazendo pequenos projetos para o meu repositório.
   
 
 <div>
