@@ -6,7 +6,7 @@
 
 🔭Em busca da minha primeira vaga de desenvolvedor.
 
-🌱Estudando JavaScript e Node.JS.
+🌱Estudando JavaScript e Node.JS com Express.JS.
 
 🌱Estou diariamente estudando também HTML, CSS, SQL Server e Python fazendo pequenos projetos para o meu repositório.
   
