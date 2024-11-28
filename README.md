@@ -8,7 +8,7 @@
 
 🌱Estudando JavaScript e Node.JS com Express.JS para futuramente estudar Next.JS
 
-🌱Estou diariamente estudando também HTML, CSS, SQL Server e Python fazendo pequenos projetos para o meu repositório.
+🌱Estou diariamente estudando também HTML, CSS, SQL Server/ PostgreSQL e Python fazendo pequenos projetos para o meu repositório.
   
 
 <div>
@@ -71,6 +71,14 @@
     width="50px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+   />
+    <img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="50px" 
+    style="padding-right: 25px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />"
    />
 
    
