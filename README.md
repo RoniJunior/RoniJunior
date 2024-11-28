@@ -62,7 +62,7 @@
     title="HTML" 
     width="50px" 
     style="padding-right: 25px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-line-wordmark.svg"
    />
      <img 
     align="left" 
@@ -70,7 +70,7 @@
     title="HTML" 
     width="50px" 
     style="padding-right: 25px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
    />
    <img 
     align="left" 
@@ -86,7 +86,7 @@
     title="HTML" 
     width="50px" 
     style="padding-right: 25px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
    />
    
 
