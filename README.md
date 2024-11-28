@@ -1,6 +1,7 @@
 # *#Olá! Eu sou o Roni Júnior*
-<img align="center" width=100% src=""/>
+
 ---
+
 ## 🧑🏻‍💻 DEV Jr.
 
 🚀Estou em constante Evolução
@@ -12,6 +13,8 @@
 **📓Estou diariamente estudando também:** HTML5, CSS3, Tailwind CSS, PostgreSQL fazendo pequenos projetos para o meu repositório.
 
 📓Tenho um conhecimento básio na linguagem Python, MySQL e SQL server.
+
+---
 
 ## 🛠️ Habilidades
 
