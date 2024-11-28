@@ -6,9 +6,9 @@
 
 🔭Em busca da minha primeira vaga de desenvolvedor.
 
-_🌱Estudando pela Plataforma da Dio.me:_ JavaScript e Node.JS com Express.JS para futuramente estudar Next.JS
+**🌱Estudando pela Plataforma da Dio.me:** JavaScript e Node.JS com Express.JS para futuramente estudar Next.JS
 
-_📓Estou diariamente estudando também:_ HTML5, CSS3, PostgreSQL fazendo pequenos projetos para o meu repositório.
+**📓Estou diariamente estudando também:** HTML5, CSS3, PostgreSQL fazendo pequenos projetos para o meu repositório.
 📓Tenho um conhecimento básio na linguagem Python e SQL server.
   
 
