@@ -34,56 +34,56 @@
 
 <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="HTML5"
+    title="HTML5" 
     width="50px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
    />
    <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="CSS3"
+    title="CSS3" 
     width="50px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
    />
    <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="JavaScript"
+    title="JavaScript" 
     width="50px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
    />
     <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Node.JS"
+    title="Node.JS" 
     width="50px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
    />
      <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
     width="50px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
    />
    <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Python"
+    title="Python" 
     width="50px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
    />
     <img 
     align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="SQLserver"
+    title="SQLserver" 
     width="50px" 
     style="padding-right: 25px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
