@@ -1,4 +1,4 @@
-# *#Olá! Eu sou o Roni Junior*
+# *#Olá! Eu sou o Roni Júnior*
 
 ## 👨‍💻DEV Jr.
 
