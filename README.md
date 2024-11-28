@@ -9,7 +9,7 @@
 **🌱Estudando pela Plataforma da Dio.me:** JavaScript e Node.JS com Express.JS para futuramente estudar Next.JS
 
 **📓Estou diariamente estudando também:** HTML5, CSS3, Tailwind CSS, PostgreSQL fazendo pequenos projetos para o meu repositório.
-  📓Tenho um conhecimento básio na linguagem Python, MySQL e SQL server.
+📓Tenho um conhecimento básio na linguagem Python, MySQL e SQL server.
 
 ## 🛠️ Habilidades
 
