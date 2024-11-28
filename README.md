@@ -1,6 +1,6 @@
-*#Olá! Eu sou o Roni Junior*
+# *#Olá! Eu sou o Roni Junior*
 
-👨‍💻DEV Jr.
+## 👨‍💻DEV Jr.
 
 🚀Estou em constante Evolução
 
@@ -30,7 +30,7 @@
         />
   </div>
 
-### 🤖 Linguagens e Tecnologias
+## 🤖 Linguagens e Tecnologias
 
 <img 
     align="left" 
