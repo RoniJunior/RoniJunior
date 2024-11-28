@@ -1,14 +1,15 @@
 # *#Olá! Eu sou o Roni Júnior*
 
-## 👨‍💻DEV Jr.
+## 🧑🏻‍💻 DEV Jr.
 
 🚀Estou em constante Evolução
 
 🔭Em busca da minha primeira vaga de desenvolvedor.
 
-🌱Estudando JavaScript e Node.JS com Express.JS para futuramente estudar Next.JS
+_🌱Estudando pela Plataforma da Dio.me:_ JavaScript e Node.JS com Express.JS para futuramente estudar Next.JS
 
-🌱Estou diariamente estudando também HTML, CSS, SQL Server/ PostgreSQL e Python fazendo pequenos projetos para o meu repositório.
+_📓Estou diariamente estudando também:_ HTML5, CSS3, PostgreSQL fazendo pequenos projetos para o meu repositório.
+📓Tenho um conhecimento básio na linguagem Python e SQL server.
   
 
 <div>
