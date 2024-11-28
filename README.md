@@ -4,7 +4,7 @@
 
 ## 🧑🏻‍💻 DEV Jr.
 
-**"Em busca da minha primeira vaga de desenvolvedor"**.
+_**"Em busca da minha primeira vaga de desenvolvedor"**_.
 
 **🌱Estudando pela Plataforma da Dio.me:** JavaScript e Node.JS com Express.JS para futuramente estudar Next.JS
 
