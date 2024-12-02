@@ -43,10 +43,10 @@ _**"Em busca da minha primeira vaga de desenvolvedor"**_.
 
 ## 📈 Estatísticas do GitHub
 
-
+<section aling = "center" >
  <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=RoniJunior&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
 <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniJunior&show_icons=true&theme=dracula&layout=compact" alt="Top Languages"  />
-
+</section>
 
   ---
   
