@@ -43,9 +43,9 @@ _**"Em busca da minha primeira vaga de desenvolvedor"**_.
 
 ## 📈 Estatísticas do GitHub
 
-<div align= "center">
-  <img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=RoniJunior&theme=chartreuse-dark&mode=weekly" alt="GitHub Stats" />
-  <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniJunior&show_icons=true&theme=chartreuse-dark&layout=compact" alt="Top Languages" />
+<div align="center">
+<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=RicardoMouraa&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
+<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RicardoMouraa&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
 </div>
 
  
