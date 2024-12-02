@@ -44,7 +44,7 @@ _**"Em busca da minha primeira vaga de desenvolvedor"**_.
 ## 📈 Estatísticas do GitHub
 
 <div aling = "center" >
- <img width=48% src="https://user-images.githubusercontent.com/20955511/183303749-1a489c0e-7a53-4fd5-90cd-b1271aca26e3.png" alt="GitHub Streak Stats" />
+ <img width=48% src="" alt="GitHub Streak Stats" />
 <img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniJunior&show_icons=true&theme=dracula&layout=compact" alt="Top Languages"  />
 </div>
 
