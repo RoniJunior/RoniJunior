@@ -1,3 +1,6 @@
+![CapaGitHub](https://github.com/user-attachments/assets/17282679-b522-44b4-bd94-b025c78013e9)
+
+
 # *#Olá! Eu sou o Roni Júnior*
 
 ---
