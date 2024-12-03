@@ -45,7 +45,7 @@ _**"Em busca da minha primeira vaga de desenvolvedor"**_.
 
 <div align="center">
  <img width=48% src="https://github-readme-stats.vercel.app/api?username=RoniJunior&show_icons=true&theme=chartreuse-dark&border_color=19f80582&icon_color=15f800b6&bg_color=15f80009&custom_title=Roni_Júnior_Github_stats&card_width=100&hide=issues" alt="GitHub Streak Stats">
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniJunior&show_icons=true&theme=chartreuse-dark&layout=compact" alt="Top Languages" />
+<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoniJunior&theme=chartreuse-dark&layout=compact&card_width=300&border_color=19f80582&bg_color=15f80009" alt="Top Languages" />
 </div>
 
  
