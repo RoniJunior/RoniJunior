@@ -24,10 +24,10 @@ _**"Em busca da minha primeira vaga de desenvolvedor"**_.
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-339523?style=for-the-badge&logo=excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Python](https://img.shields.io/badge/Python-38B2AC?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=yellow)
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
