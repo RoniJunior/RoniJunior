@@ -9,7 +9,7 @@
 
 _**"Em busca da minha primeira vaga de desenvolvedor"**_.
 
-**🌱Estudando pela Plataforma da Dio.me:** JavaScript, e Python. Futuramente estudar sobre IA para um nível mais avançado na área.
+**🌱Estudando pela Plataforma da Dio.me:** Python e JavaScript. Futuramente estudar sobre IA para um nível mais avançado na área.
 
 **📓Estou diariamente estudando também:** HTML5, CSS3, Tailwind CSS, SQL Server fazendo pequenos projetos para o meu repositório.
 
