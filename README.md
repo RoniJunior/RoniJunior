@@ -11,7 +11,7 @@ _**"Desenvolvedor & Engenheiro de Prompt"**_.
 
 ## 🛠️ _**Principais Habilidades: Python, JavaScript, N8N , Lógica de programação**_.
 
-**🌱Sempre estudando e me aperfeiçoando com cursos em:** Python/JavaScript. Engenharia de prompts para LLM's, IA's generativas para um nível mais avançado na área de Agentes de IA.
+**🌱Sempre estudando e me aperfeiçoando com cursos em:** Python/JavaScript. Engenharia de prompts para LLM's, IA's generativas para um nível mais avançado na área de automações e Agentes de IA.
 
 **📓Estou diariamente estudando também:** HTML5, CSS3, Tailwind CSS, PostgreSQL fazendo pequenos projetos para o meu repositório.
 
