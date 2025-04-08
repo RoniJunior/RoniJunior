@@ -9,12 +9,14 @@
 
 _**"Desenvolvedor & Engenheiro de Prompt"**_.
 
+## 🛠️ _**Principais Habilidades: Python, JavaScript, N8N , Lógica de programação**_.
+
 **🌱Sempre estudando e me aperfeiçoando com cursos em:** Python/JavaScript. Engenharia de prompts para LLM's, IA's generativas para um nível mais avançado na área de Agentes de IA.
 
 **📓Estou diariamente estudando também:** HTML5, CSS3, Tailwind CSS, PostgreSQL fazendo pequenos projetos para o meu repositório.
 
 📓Tenho conhecimento intermediário em Excel e Power BI , MySQL.
-# 📓Pontos Fortes: Python, JavaScript, N8N, Lógica de programação
+
 
 ---
 
@@ -29,10 +31,11 @@ _**"Desenvolvedor & Engenheiro de Prompt"**_.
 ![Power BI](https://img.shields.io/badge/PowerBI-F7DF1E?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=python&logoColor=yellow)
+![N8N](https://img.shields.io/badge/N8N-393d42?style=for-the-badge&logo=n8n&logoColor=red)
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/PostgreSQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1572B6?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas de Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
