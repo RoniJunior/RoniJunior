@@ -5,15 +5,16 @@
 
 ---
 
-## 🧑🏻‍💻 DEV Jr.
+## 🧑🏻‍💻 DEV.
 
-_**"Em busca da minha primeira vaga de desenvolvedor"**_.
+_**"Desenvolvedor & Engenheiro de Prompt"**_.
 
-**🌱Estudando pela Plataforma da Dio.me:** Python e JavaScript. Futuramente estudar sobre IA para um nível mais avançado na área.
+**🌱Sempre estudando e me aperfeiçoando com cursos em:** Python/JavaScript. Engenharia de prompts para LLM's, IA's generativas para um nível mais avançado na área de Agentes de IA.
 
-**📓Estou diariamente estudando também:** HTML5, CSS3, Tailwind CSS, SQL Server fazendo pequenos projetos para o meu repositório.
+**📓Estou diariamente estudando também:** HTML5, CSS3, Tailwind CSS, PostgreSQL fazendo pequenos projetos para o meu repositório.
 
 📓Tenho conhecimento intermediário em Excel e Power BI , MySQL.
+# 📓Pontos Fortes: Python, JavaScript, N8N, Lógica de programação
 
 ---
 
@@ -31,7 +32,7 @@ _**"Em busca da minha primeira vaga de desenvolvedor"**_.
 
 ### Bancos de Dados:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=sqlserver&logoColor=white)
+![SQLServer](https://img.shields.io/badge/PostgreSQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ferramentas de Design:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
