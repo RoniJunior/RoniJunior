@@ -5,11 +5,11 @@
 
 ---
 
-## 🧑🏻‍💻 DEV.
+## 🧑🏻‍💻 AI Specialist 
 
-_**"Desenvolvedor & Engenheiro de Prompt"**_.
+_**"Software Engineer & AI Engineer"**_.
 
-## 🛠️ _**Principais Habilidades: Python, JavaScript, N8N , Lógica de programação**_.
+## 🛠️ _**Principais Habilidades: Python, JavaScript, PostgreSQL, N8N, Lógica de programação**_.
 
 **🌱Sempre estudando e me aperfeiçoando com cursos em:** Python/JavaScript. Engenharia de prompts para LLM's, IA's generativas para um nível mais avançado na área de automações e Agentes de IA.
 
